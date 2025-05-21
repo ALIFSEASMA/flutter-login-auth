@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859754333719",
+    "project_id": "finalflutterfirebase",
+    "storage_bucket": "finalflutterfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859754333719:android:f4c4acd95dfed8f45efe52",
+        "android_client_info": {
+          "package_name": "com.example.language_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwDPEPTEVC8-dpvzNiFGIdmnjQtxGnH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
